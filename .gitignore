@@ -1,0 +1,8 @@
+#Products
+/kagv/bin/*
+/kagv/obj/*
+*.suo
+\#*#
+*.ide
+*.cache
+.vs/*

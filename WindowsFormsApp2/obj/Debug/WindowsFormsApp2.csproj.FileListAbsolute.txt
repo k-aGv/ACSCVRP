@@ -1,0 +1,95 @@
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.dll
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.pdb
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.xml
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\pouli\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.dll
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.pdb
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.xml
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tsolakis Naoum\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.dll
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.pdb
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.xml
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.dll
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.pdb
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.xml
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pouli\Desktop\Διπλωματικη\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.dll
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.pdb
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.xml
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Dimitris Poulimenos\Desktop\ACS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

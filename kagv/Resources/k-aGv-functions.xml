@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>k-aGv-functions</name>
+    </assembly>
+    <members>
+        <member name="M:k_aGv_functions.Functions.GetLength(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Returns the length of 2 points
+            </summary>
+            <param name="x1">x coordinate of the first point</param>
+            <param name="y1">y coordinate of the second point</param>
+            <param name="x2">x coordinate of the first point</param>
+            <param name="y2">y coordinate of the second point</param>
+            <returns></returns>
+        </member>
+        <member name="M:k_aGv_functions.Functions.getSide(System.Int32,System.Int32)">
+            <summary>
+            Returns the length of the hypotenuse of a specified rectangle
+            </summary>
+            <param name="w">The width of the rectangle</param>
+            <param name="h">The height of the rectangle</param>
+            <returns></returns>
+        </member>
+        <member name="M:k_aGv_functions.Functions._getEmbedResource(System.String)">
+            <summary>
+            CURRENTLY NOT WORKING.
+            </summary>
+            <param name="a"></param>
+            <returns></returns>
+        </member>
+        <member name="M:k_aGv_functions.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:k_aGv_functions.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:k_aGv_functions.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:k_aGv_functions.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
